@@ -1,0 +1,24 @@
+.grid{
+    
+    display:flex;
+    flex-wrap:wrap;
+    height:500px;
+    width:600px;
+}
+.da {
+    background-color: yellowgreen;
+    width: 200px;
+    height: 100px;
+    
+}
+
+.button {
+    height:50px;
+    width:100px;
+}
+
+.grid1 {
+    background-color:violet;
+    
+}
+
